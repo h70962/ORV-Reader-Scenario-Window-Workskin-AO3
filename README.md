@@ -30,3 +30,6 @@ An example of the "window" class with a title included:
 <p>Compensation: 300 coins</p>
 <p>Failure: Death</p></blockquote>
 ```
+
+<img width="1096" height="556" alt="image" src="https://github.com/user-attachments/assets/de4fe2c0-b96c-44b6-b23f-6ca65465ae68" />
+

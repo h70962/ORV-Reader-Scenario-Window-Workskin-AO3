@@ -17,3 +17,16 @@ To use this workskin, you must create a private workskin in your profile.
 Note that only one workskin can be present on a fic at a time.
 
 Classes can be defined in a blockquote by typing `<blockquote class="[class name here]">[text here]</blockquote>`
+A title can be added to the window class by adding a line for it: `<span class="title">[Main Scenario #1 – Proof of Value]</span>`
+
+An example of the "window" class with a title included:
+```
+<blockquote class="window">
+<span class="title"><p>[Main Scenario #1 – Proof of Value]</p></span>
+<p>Category: Main</p>
+<p>Difficulty: F</p>
+<p>Clear Conditions: Kill one or more living things.</p>
+<p>Time Limit: 30 minutes</p>
+<p>Compensation: 300 coins</p>
+<p>Failure: Death</p></blockquote>
+```

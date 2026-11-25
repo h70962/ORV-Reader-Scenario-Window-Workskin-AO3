@@ -1,0 +1,74 @@
+#workskin blockquote.notice,
+#workskin blockquote.window {
+  background-color: #2563c4;
+  background: linear-gradient(135deg, #2b78db 0%, #2159b5 100%);
+  color: #ffffff;
+  font-family: Verdana, "DejaVu Sans", Geneva, sans-serif;
+  font-size: 1.05em;
+  line-height: 1.5;
+  border: 2px solid #000000;
+  border-radius: 10px;
+  outline: 2px solid #ffffff;
+  outline-offset: -8px;
+  padding: 1.1em 1em;
+  margin: 1.2em auto;
+}
+
+#workskin blockquote.bracket {
+  background-image: linear-gradient(#808080, #808080),
+    linear-gradient(#808080, #808080),
+    linear-gradient(#808080, #808080),
+    linear-gradient(#808080, #808080),
+    linear-gradient(#808080, #808080),
+    linear-gradient(#808080, #808080);
+  background-size: 14px 3px, 14px 3px, 3px 100%, 14px 3px, 14px 3px, 3px 100%;
+  background-position: left top, left bottom, left center, right top, right bottom, right center;
+  background-repeat: no-repeat;
+  text-align: center;
+  font-family: Verdana, "DejaVu Sans", Geneva, sans-serif;
+  line-height: 1.5;
+  border: none;
+  padding: 1em 1em;
+  margin: 1.2em auto;
+  width: 85%;
+}
+
+#workskin blockquote.bracket p {
+  margin: 0.3em 0;
+}
+
+#workskin blockquote.bracket p {
+  margin: 0.3em 0;
+}
+
+#workskin blockquote.notice p,
+#workskin blockquote.window p {
+  margin: 0.3em 0;
+  color: #ffffff;
+}
+
+#workskin blockquote.notice {
+  text-align: center;
+  width: 85%;
+}
+
+#workskin blockquote.notice {
+  text-align: center;
+  width: 85%;
+  padding: 0.6em 1em;
+  margin: 0.6em auto;
+  outline-offset: -6px;
+}
+
+#workskin blockquote.window {
+  text-align: left;
+  max-width: 32em;
+}
+
+#workskin blockquote.window .title {
+  display: block;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.4em;
+  margin-bottom: 0.5em;
+}
